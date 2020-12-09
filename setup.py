@@ -5,7 +5,7 @@ from setuptools.command.test import test as TestCommand
 
 setup(
     name='loris',
-    version=1.0.0,
+    version=1.0,
     description='',
     author='senpai-10',
     url='https://github.com/Senpai-10/loris',
