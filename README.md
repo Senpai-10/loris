@@ -1,4 +1,4 @@
-loris
+<p align="center"> loris </p>
 
 <br>
 
