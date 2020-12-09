@@ -1,4 +1,4 @@
-<p align="center"> loris </p>
+<h1 align="center"> loris </h1>
 
 <br>
 
