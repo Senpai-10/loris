@@ -10,4 +10,4 @@ The attacked servers open more and connections open, waiting for each of the att
 
 ## installation
 
-```<p style="color: red">pip</p> install loris ```
+```pip install loris ```
