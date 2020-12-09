@@ -12,10 +12,8 @@ The attacked servers open more and connections open, waiting for each of the att
 
 ## installation
 
-```bash
-pip install loris ```
+```pip install loris ```
 
 ## Usage
 
-```bash
-loris <IP>```
+```loris <IP>```
