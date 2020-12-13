@@ -12,7 +12,7 @@ The attacked servers open more and connections open, waiting for each of the att
 
 ## installation
 
-1. clone            ```$ git clone  ```
+1. clone            ```$ git clone https://github.com/Senpai-10/loris.git ```
 2. change directory ```$ cd loris ```
 3. install          ```$ python setup.py install ``` or ```$ python3 setup.py install ```
 
