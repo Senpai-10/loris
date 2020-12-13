@@ -12,7 +12,9 @@ The attacked servers open more and connections open, waiting for each of the att
 
 ## installation
 
-```$ pip install loris ```
+1. clone            ```$ git clone  ```
+2. change directory ```$ cd loris ```
+3. install          ```$ python setup.py install ``` or ```$ python3 setup.py install ```
 
 ## Usage
 
